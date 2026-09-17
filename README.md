@@ -91,7 +91,7 @@ An end-to-end AI service that recognizes facial emotion in real time and connect
 - Nginx · HTTPS · systemd를 활용한 외부 서비스 환경 구성
 
 **Tech**  
-`Python` `FastAPI` `Naver Cloud`
+`Python` `LLM` `HyperCLOVAX` `BGE-M3` `Chroma` `Reranking` `FastAPI` `Naver Cloud`
 
 ---
 
