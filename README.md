@@ -1,9 +1,9 @@
 # Hi, I'm Nuri! 👋
 
-### Multimodal AI · Reinforcement Learning · V2X · RAG/Agent · Applied AI
+### Multimodal AI · Reinforcement Learning · Vision AI · V2X · Applied AI · SW Engineering
 
-AI 모델의 성능 자체뿐 아니라 **데이터 → 예측 → 의사결정 → 검증 → 서비스 연결**까지 이어지는 AI 시스템에 관심이 있습니다.  
-현재는 멀티모달 AI와 강화학습을 활용한 V2X 의사결정 및 자원 최적화 연구를 수행하고 있습니다.
+I am interested in designing AI systems that connect **data → prediction → decision-making → validation → real-world services**.
+Currently, I am researching V2X decision-making and resource optimization using multimodal AI and reinforcement learning.
 
 ---
 
