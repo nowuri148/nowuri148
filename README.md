@@ -6,6 +6,13 @@ I am interested in designing AI systems that connect **data → prediction → d
 
 Currently, I am researching V2X decision-making and resource optimization using multimodal AI and reinforcement learning.
 
+### 🎓 Education
+
+| Degree | University | Department | Period |
+|---|---|---|---|
+| ❄️ B.S. | Sookmyung Women's University | IT Engineering | 2021.03 – 2025.02 |
+| 🦁 M.S. | Hanyang University | Automotive Engineering | 2025.03 – Present |
+
 ---
 
 ## 🔬 Research
