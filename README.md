@@ -3,6 +3,7 @@
 ### Multimodal AI · Reinforcement Learning · Vision AI · V2X · Applied AI · SW Engineering
 
 I am interested in designing AI systems that connect **data → prediction → decision-making → validation → real-world services**.
+
 Currently, I am researching V2X decision-making and resource optimization using multimodal AI and reinforcement learning.
 
 ---
